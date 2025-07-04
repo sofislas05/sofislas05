@@ -11,9 +11,8 @@
 
 ## 🔧 Tech Stack
 
-**Languages:** Python, C++, JavaScript
-**Frontend:** Astro, React, HTML/CSS  
-**Backend:** Node.js
+**Languages:** Python, C++, (learning) JavaScript
+**Frontend:** (learning) Astro, (learning) React, HTML/CSS  
 **Tools:** Git, VSCode, GitHub, Figma
 
 ## 📫 How to reach me
