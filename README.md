@@ -6,8 +6,8 @@
 
 ## 🚀 Projects
 
-- 💡 **Mini projects** from CS106A/B, ENGR76, personal explorations.  
-- 🧪 Currently learning: Linear algebra, JavaScript, and systems (CS107 prep!)
+- 💡 **Mini projects** Clau's Kitchen, Muffin Study  
+- 🧪 Currently learning: Linear algebra, JavaScript, and databases!
 
 ## 🔧 Tech Stack
 
